@@ -28,6 +28,8 @@ scratch:
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
 site:
+    author: Jonathan
+    twitter: webdevdorety
     copyAssets: true
     assetsPrefix: mind-palace/
     siteHierarchies:
