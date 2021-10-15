@@ -34,7 +34,7 @@ site:
   title: Mind Palace
   description: Personal knowledge space
   siteLastModified: true
-  gh_edit_branch: pages
+  gh_edit_branch: main
 version: 1
 lookupConfirmVaultOnCreate: false
 lookup:
