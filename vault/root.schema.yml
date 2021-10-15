@@ -1,0 +1,12 @@
+version: 1
+imports: []
+schemas:
+  - id: root
+    children:
+      - languages
+    title: root
+    parent: root
+  - id: languages
+    children: []
+    title: languages
+    parent: root
