@@ -29,6 +29,7 @@ scratch:
     addBehavior: asOwnDomain
 site:
     copyAssets: true
+    assetsPrefix: mind-palace/
     siteHierarchies:
         - root
     siteRootDir: docs
