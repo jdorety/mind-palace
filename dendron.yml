@@ -31,7 +31,6 @@ site:
     author: Jonathan
     twitter: webdevdorety
     copyAssets: true
-    assetsPrefix: mind-palace/
     siteHierarchies:
         - root
     siteRootDir: docs
