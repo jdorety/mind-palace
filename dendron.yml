@@ -28,6 +28,7 @@ scratch:
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
 site:
+    siteUrl: https://mind-palace.dorety.dev
     author: Jonathan
     twitter: webdevdorety
     copyAssets: true
