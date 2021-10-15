@@ -1,10 +1,6 @@
 maxPreviewsCached: 10
 vaults:
     -
-        fsPath: templates
-        seed: dendron.templates
-        name: dendron.templates
-    -
         fsPath: vault
 useFMTitle: true
 useNoteTitleForLink: true
@@ -28,7 +24,7 @@ scratch:
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
 site:
-    siteUrl: https://mind-palace.dorety.dev
+    siteUrl: 'https://mind-palace.dorety.dev'
     author: Jonathan
     twitter: webdevdorety
     copyAssets: true
@@ -40,11 +36,6 @@ site:
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-            - dendron.templates
 version: 1
 lookupConfirmVaultOnCreate: false
 lookup:

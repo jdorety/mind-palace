@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "dendron-cli": "dendron-cli"
+    "dendron-cli": "dendron-cli",
+    "start": "dendron-cli build --stage dev --serve"
   },
   "license": "CC BY 4.0",
   "devDependencies": {
