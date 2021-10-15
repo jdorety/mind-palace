@@ -22,7 +22,7 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_branch: main
+                  publish_branch: pages
                   publish_dir: docs/
                   force_orphan: true
                   cname: "mind-palace.dorety.dev" # UPDATE WITH DOMAIN NAME
