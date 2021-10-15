@@ -25,4 +25,4 @@ jobs:
                   publish_branch: pages
                   publish_dir: docs/
                   force_orphan: true
-                  cname: "dorety.dev" # UPDATE WITH DOMAIN NAME
+                  cname: "mind-palace.dorety.dev" # UPDATE WITH DOMAIN NAME
